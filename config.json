@@ -15,6 +15,14 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
+        "lzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "CJ资源"
+    },
+   "qiqi": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod",
+      "name": "QiQi资源"
+    },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
@@ -76,14 +84,6 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }
-    "ikun": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "CJ资源"
-    }
-        "ikun": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod",
-      "name": "QiQi资源"
     }
   }
 }
